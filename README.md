@@ -1,3 +1,5 @@
+![tests](https://github.com/Ekman96/qa-automation-mini-framework/actions/workflows/test.yml/badge.svg)
+
 # QA Automation Mini Framework (Pytest + Selenium + API + CI)
 
 A small but production-style QA automation framework showing:
